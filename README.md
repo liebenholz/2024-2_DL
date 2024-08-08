@@ -1,6 +1,6 @@
 ## Lecture Introduction
 - All projects and assignments are based on [**'2024 Fall Artificial Intelligence(4)'**](https://knu-p4c-lab.github.io/lectures/3d8a4247-7440-58f7-935f-4c129c5533a8/) by KNU P4C Lab.
-- This lecture is technically about making Game Playing AI with Deep Learning.
+- This lecture is technically about making Game Playing AI with Reinforcement Learning.
 - This course has a different curriculum than the 'Artificial Intelligence' course I took in [**Fall of 2022**](https://github.com/liebenholz/2022-2_AI).
 - I've been taking this course as an auditor.
 
